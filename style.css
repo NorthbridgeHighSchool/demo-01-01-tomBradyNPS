@@ -2,12 +2,13 @@ html {
   background-color: rgb(182, 240, 176);
 } 
 h1 {
-  font-size: 12pt;
-  color: rgb(218, 106, 106);
+  font-size: 24pt;
+  color: rgb(211, 211, 211);
   background-color: rgb(116, 115, 115);
 }
 p {
   color: rgb(68, 68, 68);
+  font-size: 14pt;
 }
 
 
